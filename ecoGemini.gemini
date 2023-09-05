@@ -1,0 +1,42 @@
+## Mastodon
+Hace unas semanas estuve navegando por Mastodon. Me gusta la idea de red social distribuida, de fediverso. El tema es extenso, no lo conozco bien. Encontré muchos conceptos nuevos para mí. Pensar en una internet mas segura, sustentable, accesible a todos, muy novedoso. Pensar en un decrecimiento global. 
+
+Pero vayamos por partes. 
+
+## Sitios web sustentables
+
+Lo de hacer sustentable deviene en no despilfarrar recursos energéticos escasos. Cuánto más compleja una página web, más recursos precisa, más electricidad consume, más calor produce. 
+
+Un sitio web estático es solo líneas de código en texto plano. Un sitio dinámico, también son líneas de código en texto plano pero, con aplicaciones internas que generan nuevo contenido tanto en el servidor como dentro de nuestro navegador. 
+
+Este contenido puede ser algo que vemos reflejado en nuestras pantallas, como también algo que no vemos en nuestra pantalla y que van desde un rastreo de nuestros hábitos de compra, lecturas y todo lo que hagamos (todo es todo) hasta intervenciones maliciosas en nuestra PC-ordenador. 
+
+La primera lectura sobre páginas web fue en un posteo en la red social Mastodon de 
+
+=> https://mast.lat/@alien@mastodon.green Alien 
+
+donde anunciaba un tutorial páginas ligeras
+
+=> https://git.sr.ht/~alienagain/plumaweb Tutorial
+
+# Proyecto Gemini
+## Una red segura
+Leyendo este tutorial conocí el 
+
+=> https://gemini.circumlunar.space/docs/es/ Proyecto Gemini 
+
+un protocolo web de solo texto (también hay imágenes, más adelante profundizaré) que sigue los lineamientos de una internet sustentable. Tanto para su impulsor, como para sus seguidores no plantean la sustitución de la WWW sino ofrecer una alternativa a lo que caracterizan como una internet pesada, insegura, artificiosa, cargada de publicidad no deseada, con sistemas de vigilancia de usuarios y muchas cosas mas.
+
+## Como acceder a sitios Gemini
+
+Ahora llegamos al momento de responder a ¿como accedemos a estos sitios? Existen diferentes aplicaciones para Windows, Mac, Linux, Android. 
+
+=> https://gemini.circumlunar.space/software/ Lista software
+
+Encontrarás clientes, servidores, complementos para navegadores y algunas cositas mas.
+
+# Resumiendo
+Un proyecto que desafía nuestra estancia en la zona de confort, nos propone formar parte de algo que piensa en nuestro planeta, en nuestros semejantes. Nos interpela a tomar una posición "sustentable" respecto a internet y la tecnología.
+Por mi parte seguiré investigando y compartiendo estas tecnologías que llamo de resistencia.
+
+=> gemini://gemini.circumlunar.space/docs/es/ cápsula (sitio/página) gemini
